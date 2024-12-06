@@ -1,1 +1,37 @@
-hello
+{
+  "projects": [
+    {
+      "title": "Data Visualization Dashboard",
+      "description": "Interactive visualization of complex datasets using ggplot2 and Shiny",
+      "skills": ["ggplot2", "Shiny", "tidyverse"],
+      "date": "2024-01",
+      "githubLink": "https://github.com/yourusername/r-data-viz",
+      "demoLink": "https://example.com/demo",
+      "image": "path/to/project-image.png",
+      "highlights": [
+        "Created interactive dashboards for data exploration",
+        "Implemented real-time data filtering",
+        "Used advanced ggplot2 features for custom visualizations"
+      ]
+    },
+    {
+      "title": "Statistical Analysis Package",
+      "description": "R package for advanced statistical analysis and hypothesis testing",
+      "skills": ["statistics", "R package development", "data analysis"],
+      "date": "2023-11",
+      "githubLink": "https://github.com/yourusername/stats-package",
+      "demoLink": "https://example.com/stats-demo",
+      "image": "path/to/stats-image.png",
+      "highlights": [
+        "Implemented custom statistical functions",
+        "Added comprehensive unit testing",
+        "Published to CRAN"
+      ]
+    }
+  ],
+  "pageInfo": {
+    "title": "R Programming Projects",
+    "description": "Collection of projects showcasing R programming skills in data analysis, visualization, and package development",
+    "lastUpdated": "2024-03-01"
+  }
+}
